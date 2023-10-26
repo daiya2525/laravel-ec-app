@@ -2,4 +2,5 @@
     <div class="text-white">{{ $title }}</div>
     <div class="text-white">画像</div>
     <div class="text-white">{{ $content }}</div>
+    <div class="text-white">{{ $message }}</div>
 </div>
